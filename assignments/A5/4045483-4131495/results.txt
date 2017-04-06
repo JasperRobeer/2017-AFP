@@ -1,0 +1,43 @@
+# Exercise 1
+
+Implementation of `pure` missing case for `Zero`, but this is not really required.
+
+# Exercise 2
+
+Answered correctly.
+
+# Exercise 3
+
+Equivalent to reference answers.
+
+# Exercise 4
+
+Answered correctly, using helper functions instead of the `... with ...` construct.
+
+# Exercise 5
+
+All questions answered correctly.
+
+# Exercise 6
+
+All questions answered correctly.
+
+# Exercise 7 (LEQ)
+
+This is given as exercise 8 in the solutions.
+The answers are equivalent to the reference solutions (just using different names).
+
+# Exercise 8 (Not)
+
+This is given as exercise 7 in the solutions.
+Missing answers for `step2`/`step3` (3/5).
+
+# Exercise 9
+
+Proof for correctness is incomplete (2/3).
+
+# Final Grade
+
+Assuming that each exercise has the same weight in the final grade..
+
+9.2/10
